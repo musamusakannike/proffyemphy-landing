@@ -308,7 +308,7 @@ export default function LandingPage() {
                         Download APK (Android)
                       </a>
                     </Button>
-                    <Button
+                    {/* <Button
                       size="lg"
                       variant="outline"
                       className="border-[#F5B800] text-[#F5B800] hover:bg-[#4B6043]"
@@ -318,7 +318,7 @@ export default function LandingPage() {
                         <Download className="mr-2 h-4 w-4" />
                         Download IPA (iOS)
                       </Link>
-                    </Button>
+                    </Button> */}
                   </div>
                   <p className="text-sm text-[#E0E0E0]">
                     * For iOS users: You may need to follow additional installation instructions after downloading the
