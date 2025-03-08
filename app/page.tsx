@@ -303,7 +303,7 @@ export default function LandingPage() {
                 <div className="space-y-4">
                   <div className="flex flex-col gap-2 min-[400px]:flex-row">
                     <Button size="lg" className="bg-[#F5B800] text-[#082F14] hover:bg-[#FFD95B]" asChild>
-                      <a href="/proffyemphy-ideal-academy.apk">
+                      <a href="/app-release.apk">
                         <Download className="mr-2 h-4 w-4" />
                         Download APK (Android)
                       </a>
@@ -349,7 +349,7 @@ export default function LandingPage() {
                   <div className="absolute top-0 inset-x-0 h-[32px] bg-[#4B6043] rounded-t-[1.5rem]"></div>
                   <div className="h-full w-full overflow-hidden rounded-[2rem] bg-[#082F14]">
                     <Image
-                      src="/placeholder.svg?height=1000&width=500"
+                      src="/app-screenshot.png"
                       width={500}
                       height={1000}
                       alt="App Screenshot"

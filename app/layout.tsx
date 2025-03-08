@@ -3,8 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Proffyemphy Ideal Academy',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  description: 'Specialized learning platform for university science students. Access expert-led courses, interactive materials, and a supportive community.',
 }
 
 export default function RootLayout({
