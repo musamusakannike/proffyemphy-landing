@@ -382,10 +382,10 @@ export default function LandingPage() {
             <div className="mx-auto grid max-w-5xl items-center gap-6 py-12 md:grid-cols-3">
               <Card className="bg-[#082F14] border-[#4B6043] text-[#F5F5F5]">
                 <CardHeader>
-                  <CardTitle className="text-[#F5F5F5]">Basic</CardTitle>
+                  <CardTitle className="text-[#F5F5F5]">Online</CardTitle>
                   <div className="flex items-baseline gap-1">
-                    <span className="text-3xl font-bold text-[#F5B800]">$9.99</span>
-                    <span className="text-[#E0E0E0]">/month</span>
+                    <span className="text-3xl font-bold text-[#F5B800]">₦9.99</span>
+                    <span className="text-[#E0E0E0]">/semester</span>
                   </div>
                 </CardHeader>
                 <CardContent>
@@ -419,10 +419,10 @@ export default function LandingPage() {
                   Most Popular
                 </div>
                 <CardHeader>
-                  <CardTitle className="text-[#F5F5F5]">Premium</CardTitle>
+                  <CardTitle className="text-[#F5F5F5]">Physical</CardTitle>
                   <div className="flex items-baseline gap-1">
-                    <span className="text-3xl font-bold text-[#F5B800]">$19.99</span>
-                    <span className="text-[#E0E0E0]">/month</span>
+                    <span className="text-3xl font-bold text-[#F5B800]">₦19.99</span>
+                    <span className="text-[#E0E0E0]">/semester</span>
                   </div>
                 </CardHeader>
                 <CardContent>
@@ -457,10 +457,10 @@ export default function LandingPage() {
               </Card>
               <Card className="bg-[#082F14] border-[#4B6043] text-[#F5F5F5]">
                 <CardHeader>
-                  <CardTitle className="text-[#F5F5F5]">Ultimate</CardTitle>
+                  <CardTitle className="text-[#F5F5F5]">Physical + Online</CardTitle>
                   <div className="flex items-baseline gap-1">
-                    <span className="text-3xl font-bold text-[#F5B800]">$29.99</span>
-                    <span className="text-[#E0E0E0]">/month</span>
+                    <span className="text-3xl font-bold text-[#F5B800]">₦29.99</span>
+                    <span className="text-[#E0E0E0]">/semester</span>
                   </div>
                 </CardHeader>
                 <CardContent>
