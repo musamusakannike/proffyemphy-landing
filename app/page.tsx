@@ -303,7 +303,7 @@ export default function LandingPage() {
                 <div className="space-y-4">
                   <div className="flex flex-col gap-2 min-[400px]:flex-row">
                     <Button size="lg" className="bg-[#F5B800] text-[#082F14] hover:bg-[#FFD95B]" asChild>
-                      <a href="/app-release.apk">
+                      <a href="/app.apk">
                         <Download className="mr-2 h-4 w-4" />
                         Download APK (Android)
                       </a>
