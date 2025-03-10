@@ -394,7 +394,7 @@ export default function LandingPage() {
                       className="bg-[#F5B800] text-[#082F14] hover:bg-[#FFD95B]"
                       asChild
                     >
-                      <a href="/proffyemphy.apk">
+                      <a href="/proffyemphy-ideal-academy.apk">
                         <Download className="mr-2 h-4 w-4" />
                         Download APK (Android)
                       </a>
